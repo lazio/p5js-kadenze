@@ -1,0 +1,18 @@
+{
+  "name": "kadenze",
+  "projects": [
+    "s1.hello",
+    "s1.dreamcity",
+    "s2.gradient",
+    "s2.disc",
+    "s2.circlesGrid",
+    "s2.circlesPatternGrid",
+    "s2.circlesRandomGrid",
+    "s2.circlesOpacityGrid",
+    "s2.circlesStrokeWeightGrid",
+    "s2.crossesGrid",
+    "s2.blackHole",
+    "s2.sticksGrid",
+    "s2.song"
+  ]
+}
