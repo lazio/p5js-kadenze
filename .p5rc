@@ -13,6 +13,12 @@
     "s2.crossesGrid",
     "s2.blackHole",
     "s2.sticksGrid",
-    "s2.song"
+    "s2.song",
+    "s3.changeBgByMousePos",
+    "s3.moveCircle",
+    "s3.mouseEvent",
+    "s3.clickInsideArea",
+    "s3.drawBlackRedCircles",
+    "s3.gridsWithDensity"
   ]
 }
